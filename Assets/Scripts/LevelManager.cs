@@ -63,7 +63,7 @@ public class LevelManager : MonoBehaviour {
 	/*
 	 * This function first checks that the activeCollectable is set to something and if it is
 	 * it puts the collectable into that appropriate List based on the collectables tag. It 
-	 * the updates the UI and notifies the collectable that it has been collected.
+	 * then updates the UI and notifies the collectable that it has been collected.
 	 */
 	private void pickupCollectable () {
 				
