@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{AEFC2806-9D6C-7CFD-1B15-A8142FBA8DFA}") = "8.0-InventoryManagement", "Assembly-CSharp.csproj", "{67A9636F-9910-9178-0819-A5B6A634E034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67A9636F-9910-9178-0819-A5B6A634E034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A9636F-9910-9178-0819-A5B6A634E034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A9636F-9910-9178-0819-A5B6A634E034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A9636F-9910-9178-0819-A5B6A634E034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
